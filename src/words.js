@@ -100,7 +100,7 @@ export const wordDatabase = [
   { id: "T097", en: "tangible", zh: "有形的；實質的" },
   { id: "T098", en: "tenacious", zh: "頑強的；固執的" },
   { id: "T099", en: "ubiquitous", zh: "無所不在的" },
-  { id: "T100", en: "vulnerable", zh: "脆弱的；易受傷的" }
+  { id: "T100", en: "vulnerable", zh: "脆弱的；易受傷的" },
   { id: "T101", en: "adversary", zh: "對手；敵手" },
   { id: "T102", en: "advocate", zh: "擁護者；主張" },
   { id: "T103", en: "aesthetic", zh: "美學的；審美的" },
